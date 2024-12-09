@@ -72,7 +72,7 @@ pip install spade
 1. **Clone the Repository**  
    ```bash
    git clone https://github.com/Alijahanbanian/SPADE-two-agent-demo.git
-   cd spade-two-agent-communication
+   cd spade-two-agent-demo
    ```
 
 2. **Run the Script**  
