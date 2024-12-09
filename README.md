@@ -122,8 +122,3 @@ ParentAgent finished !!!
 - **Issue**: Cannot connect to the XMPP server.  
   **Solution**: Verify the Prosody configuration and ensure the server is accessible on `localhost`.
 
----
-
-## License
-
-This project is licensed under the MIT License.
